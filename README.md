@@ -15,6 +15,10 @@ Hi, I am a student trying to learn everything life has to offer.<br>Curiosity is
 ### ✍️ Random Dev Quote
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
+## 🎮 GitHub Game
+
+![My GitHub Game](./game.gif)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=faizaafif&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
