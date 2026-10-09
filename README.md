@@ -12,6 +12,8 @@ Hi, I am a student trying to learn everything life has to offer.<br>Curiosity is
 ![](https://nirzak-streak-stats.vercel.app/?user=faizaafif&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faizaafif&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=faizaa_&theme=github_dark&acceptance=false&reputation=false)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
+
 ### ✍️ Random Dev Quote
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
